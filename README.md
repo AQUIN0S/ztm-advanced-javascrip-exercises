@@ -1,1 +1,1 @@
-# ztm-advanced-javascrip-exercises
+# ztm-advanced-javascript-exercises
